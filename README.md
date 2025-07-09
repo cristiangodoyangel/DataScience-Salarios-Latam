@@ -69,6 +69,6 @@ Cristian Godoy Angel
 
 🌐 www.cristiangodoyangel.dev
 📧 contacto@cristiangodoyangel.dev
-🔗 LinkedIn
+🔗 [LinkedIn](https://www.linkedin.com/in/cristian-godoy-angel/)
 
 ⭐ Si este proyecto te fue útil, no olvides marcarlo con una estrella y compartirlo.
