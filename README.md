@@ -52,6 +52,7 @@ git clone https://github.com/cristiangodoyangel/data-science-salarios-latam.git
 Abre el notebook en Google Colab o Jupyter Notebook
 
 Ejecuta el análisis o modifica los filtros según tus necesidades
+```
 
 🛠️ Tecnologías utilizadas
 Python 3
