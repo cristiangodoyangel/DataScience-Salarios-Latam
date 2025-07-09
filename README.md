@@ -54,7 +54,7 @@ Abre el notebook en Google Colab o Jupyter Notebook
 Ejecuta el análisis o modifica los filtros según tus necesidades
 ```
 
-🛠️ Tecnologías utilizadas
+## 🛠️ Tecnologías utilizadas
 Python 3
 
 Pandas
@@ -63,8 +63,10 @@ Matplotlib
 
 Google Colab / Jupyter Notebook
 
-✝️ Autor
-Cristian Godoy Angel – El Pastor que explica Data Science con propósito
+
+## ✝️ Autor
+Cristian Godoy Angel 
+
 🌐 www.cristiangodoyangel.dev
 📧 contacto@cristiangodoyangel.dev
 🔗 LinkedIn
