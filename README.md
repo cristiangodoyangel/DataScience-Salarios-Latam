@@ -23,8 +23,11 @@ Incluye visualizaciones, comparación por país, roles técnicos y tabla resumen
 ## 📁 Estructura del repositorio
 
 📂 assets/ → Imágenes utilizadas en el README y redes sociales
+
 📂 notebooks/ → Notebooks con el análisis (.ipynb)
+
 📄 dataset_latam.csv → Dataset limpio y clasificado por rol
+
 📄 README.md → Este archivo
 
 
