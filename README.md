@@ -7,7 +7,7 @@ Incluye visualizaciones, comparación por país, roles técnicos y tabla resumen
 
 ---
 
-![Banner](./assets/banner-portada.png)
+![Banner](./assets/banner.png)
 
 ## 📊 Contenido del proyecto
 
