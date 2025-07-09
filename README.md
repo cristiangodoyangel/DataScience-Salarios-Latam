@@ -3,7 +3,7 @@
 
 Análisis completo de salarios reales en Ciencia de Datos en América Latina.  
 Incluye visualizaciones, comparación por país, roles técnicos y tabla resumen.  
-✝️ Explicado por el Pastor – [www.cristiangodoyangel.dev](https://www.cristiangodoyangel.dev)
+
 
 ---
 
